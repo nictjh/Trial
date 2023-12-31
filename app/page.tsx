@@ -2,7 +2,7 @@
 export default function Home() {
   return (
     <main>
-      <h1>Hello NicTOk</h1>
+      <h1>CS!</h1>
     </main>
   )
 }
